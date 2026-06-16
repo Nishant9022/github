@@ -1,0 +1,30 @@
+                                                                     *command*
+
+
+1) sudo apt install git -y : to install github
+
+2) git init :-  To create dir or (.git)
+
+3) git status :- Shown git status and show untracked File.
+
+4) git add. To untracked start file. or adding file or dir in github
+
+5) git config --global user.email "Rajput Nishan@gmail.com"
+
+6) git config --global user name "Nishant 9022"
+
+
+
+
+       what to connection remote git
+
+1) Connection to github in linux to acess
+
+        step 1. create repositories
+
+        Step 2: name/Description / public orpri---
+
+        step 3. or push on existing repository form the command line
+
+        to copy by 1 path Then 2 and 3
+
